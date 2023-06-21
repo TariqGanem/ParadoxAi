@@ -1,0 +1,3 @@
+To be honest, it took me half an hour just to recognize the children's classes and be able to get them. I'm just new to it (just yesterday knew that it will be in Cypress framework and didn't have the time to fully prepare) ...
+I would add more and more tests if I got time and test them perfectly (Like if it was a real interview or something live it would be great then).
+
